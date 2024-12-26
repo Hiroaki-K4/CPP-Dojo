@@ -10,6 +10,8 @@ This repository is designed to help us efficiently learn the minimum C++ concept
 - Pointer arithmetic, null pointers, double pointers.
 - References and the difference between pointers and references.
 
+<img src="resources/pointer_reference.png" width='500'>
+
 ## Memory Management
 - Stack vs. heap memory.
 - new, delete, smart pointers (unique_ptr, shared_ptr, weak_ptr).
