@@ -34,6 +34,4 @@ This repository is designed to help us efficiently learn the minimum C++ concept
 
 ## Modern C++ Features (C++11 and Beyond)
 - auto, decltype, nullptr, range-based loops.
-- Lambda expressions and std::function.
-- Move semantics and std::move.
 - std::optional, std::variant, std::any.
